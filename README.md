@@ -7,7 +7,7 @@
   - :pencil2: [Email](avarinlioglu@gmail.com)
   - :office: [LinkedIn](https://www.linkedin.com/in/varinliali/)
 
-
+<!-- Thanks to Khuyen Tran https://towardsdatascience.com/build-an-impressive-github-profile-in-3-steps-f1938957d480 -->
 
 <!-- - :zap: I love programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
